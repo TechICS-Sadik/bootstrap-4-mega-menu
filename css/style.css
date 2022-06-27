@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.first-level-menu a {
+  background: hsl(0deg 0% 89%);
+  border-bottom: 1px solid hsl(0deg 0% 0%);
+}
+
+.first-level-menu a:selected {
+  background: #ffffff;
+}
